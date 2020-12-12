@@ -1,2 +1,3 @@
-# projeto-site
- Projeto de um site no curso de Git e GiThub
+# Teste de hospedagem GitHub.
+Meu primeiro contato com Git e GitHub, hospedando uma página para estudo.
+ 
