@@ -4,9 +4,10 @@
 }
 
 body{
-    background-color: rgb(193, 192, 194);
+    background-color: rgb(91, 91, 92);
 
 }
+
 img.lado{
     float: right;
 }
@@ -16,5 +17,9 @@ main{
     margin: auto;
     margin-top: 180px;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.562);
+}
+footer{
+    font-size: 12px;
+    margin-left: 180px;
 }
