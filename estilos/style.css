@@ -8,8 +8,14 @@ body{
 
 }
 
-img.lado{
+img.card{
     float: right;
+    max-width: 100px;
+}
+img.ligth{
+    float: right;
+    max-width: 40px;
+    margin-top: 94px;
 }
 main{
     background-color: white;
@@ -19,7 +25,16 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.562);
 }
+h1{
+    text-align: center;
+}
+div.ptBloc{
+    text-justify: auto;
+}
+div.enBloc{
+    text-justify: auto;
+}
 footer{
     font-size: 12px;
-    margin-left: 180px;
+    margin-left: 130px;
 }
